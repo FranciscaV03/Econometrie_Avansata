@@ -10,7 +10,7 @@ Acesta este un proiect realizat în cadrul cursului de Econometrie Avansată. Sc
 ## Autori
 
 - FranciscaV03
-- - DragosV07
+- DragosV07
 
 
 ## Funcționalități
